@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="team_1">TeamA</string>
+    <string name="hello_count_1">0</string>
+    <string name="btn_reset">请空</string>
+    <string name="btn_add_1">+ 1 分</string>
+    <string name="btn_add_2">+ 2 分</string>
+    <string name="btn_add_3">+ 3 分</string>
+    <string name="team_2">TeamB</string>
+    <string name="hello_count_2">0</string>
+    <string name="btn_add_4">+ 1 分</string>
+    <string name="btn_add_5">+ 2 分</string>
+    <string name="btn_add_6">+ 3 分</string>
+</resources>
