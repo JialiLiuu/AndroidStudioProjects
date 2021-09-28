@@ -11,4 +11,10 @@
     <string name="btn_add_4">+ 1 分</string>
     <string name="btn_add_5">+ 2 分</string>
     <string name="btn_add_6">+ 3 分</string>
+
+    <string name="title2">Hello</string>
+    <string name="input2">Input RMB</string>
+    <string name="btn2_1">DOLLAR</string>
+    <string name="btn2_2">EURO</string>
+    <string name="btn2_3">WON</string>
 </resources>
